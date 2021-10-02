@@ -30,6 +30,7 @@ export default {
     noBinary: true,
     // AlexJS to ignore these grouped words https://github.com/retextjs/retext-equality/blob/main/rules.md
     allow: [
+      'ball',
       'add',
       'basically',
       'clearly',
